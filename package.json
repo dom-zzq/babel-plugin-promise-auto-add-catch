@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-promise-auto-add-catch",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A Babel plugin for the developer to auto add catch  with Promise function.",
   "main": "lib/index.js",
   "scripts": {
