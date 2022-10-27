@@ -1,0 +1,25 @@
+{
+  "name": "babel-plugin-promise-auto-add-catch",
+  "version": "0.0.1",
+  "description": "A Babel plugin for the developer to auto add catch  with Promise function.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dom-zzq/babel-plugin-promise-auto-add-catch.git"
+  },
+  "keywords": [
+    "babel插件"
+  ],
+  "author": "domz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dom-zzq/babel-plugin-promise-auto-add-catch/issues"
+  },
+  "homepage": "https://github.com/dom-zzq/babel-plugin-promise-auto-add-catch#readme",
+  "dependencies": {
+    "babel-template": "^6.26.0"
+  }
+}
